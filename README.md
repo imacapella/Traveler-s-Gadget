@@ -9,5 +9,7 @@ This project not designed for commercial priority. First goal is progressing my 
 Tutorial Video: https://www.youtube.com/watch?v=aYkvtyugDvw&list=PLq4I99QKpIbl02hl7UM3cj-ay1w2Z3Bq6&index=4
 
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/101065086/219962575-40c9b84a-6c54-4776-90f5-625a657494b2.png">
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/101065086/219962767-6cd5b014-1e7b-46c6-bb6e-c12a10b9eb64.png">
+<img width="312" alt="image" src="https://user-images.githubusercontent.com/101065086/219962840-91245557-de1a-4897-9256-65415257ca2d.png">
 
 
